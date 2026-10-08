@@ -59,16 +59,6 @@ Não precisa instalar nada.
 - **ATENÇÃO**: marca armadilhas, erros ou detalhes que merecem cuidado.
 - **Complemento**: explicação extra que não foi dita na aula, adicionada depois para facilitar o estudo.
 
-## Correções feitas nos exemplos
-
-Cinco trechos tinham erros e foram corrigidos. Cada um tem um comentário **CORRIGIDO** no `script.js` explicando o que era e o que mudou:
-
-- **Seção 21**: a condição do restaurante agora usa parênteses: `familia >= 4 && (terça || quarta)`.
-- **Seção 23**: no `switch` dos dias da semana, o `case 4` agora é `'Qua'`, e os dias seguintes foram ajustados (o dia 7 é `'Sab'`).
-- **Seção 25**: na Mega-Sena, o `+1` foi para dentro do `console.log`, e os números agora saem de 1 a 60.
-- **Seção 26**: o `if` agora testa `texto3`.
-- **Seção 27**: `avaliacao2` agora é declarada com `let`.
-
 ## Tecnologias
 
 - HTML

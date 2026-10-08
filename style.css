@@ -1,0 +1,4 @@
+/* Seletor h1: aplica o estilo em todos os títulos <h1> da página */
+h1 {
+    color: red /* propriedade: valor. O ";" final é opcional na última linha, mas é boa prática colocar */
+}
